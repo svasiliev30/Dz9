@@ -1,0 +1,5 @@
+sbp\su\App.class
+sbp\su\controllers\SimpleRestController.class
+sbp\su\Injection\Injection.class
+sbp\su\person\Person.class
+sbp\su\adressAndProduct\ProductRepository.class
